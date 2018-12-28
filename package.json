@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@babel/polyfill": "^7.2.5",
+    "@ledgerhq/hw-transport-node-hid": "^4.33.3"
+  }
+}
